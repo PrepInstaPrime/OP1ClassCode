@@ -1,4 +1,7 @@
 // find the maximum sum of subarray with k size where array name is nums which contains positive integers 
+
+import java.util.Arrays;
+
 public class FixedSizeSliding {
     public static int maxSum(int []nums, int k){
         /* 
@@ -32,6 +35,21 @@ public class FixedSizeSliding {
 
     }
     public static void main(String[] args) {
+        System.out.println(arr.length);
+
+        
+
+        
+        
+
+        
+        
+
+        
+
+
+        
+
         int nums[]={1,2,3,4,7,6,9,8};
         int k=3;
         System.out.println(maxSum(nums, k));
