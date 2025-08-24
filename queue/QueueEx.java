@@ -2,7 +2,6 @@ import java.util.ArrayDeque;
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Queue;
-
 public class QueueEx {
     public static void main(String[] args) {
         // with the help of linkedlist
